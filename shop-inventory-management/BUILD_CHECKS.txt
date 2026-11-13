@@ -1,0 +1,2 @@
+PHP files checked: 31
+PHP syntax errors: 0

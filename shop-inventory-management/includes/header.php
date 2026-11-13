@@ -1,0 +1,2 @@
+<?php $pageTitle=$pageTitle??'Dashboard'; $base=$base??'/shop-inventory-management'; $flashMessage=get_flash(); ?>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title><?=e($pageTitle)?> | Shop Inventory</title><link rel="stylesheet" href="<?=$base?>/assets/css/style.css"><script defer src="<?=$base?>/assets/js/script.js"></script></head><body><div class="app-shell">
